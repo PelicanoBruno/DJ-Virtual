@@ -1,0 +1,29 @@
+body{
+    background:url("background.jpg");
+}
+#Titulo{
+    color:rgb(185, 133, 0);
+    width:100%;
+    font-size:20px;
+}
+.divSpeedIMG{
+    width:200px;
+    border-radius:100px;
+}
+.divVolumeIMG{
+    width:200px;
+    border-radius:100px;
+}
+.divSpeed{
+ float:left;
+}
+.divVolume{
+    float:right;
+}
+#DireitosAutorais{
+    position:fixed;
+    bottom:0px;
+    color:green;
+    width:100%;
+    background-color: aqua;
+}
